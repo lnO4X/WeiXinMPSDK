@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Senparc.Weixin.MP
 {
+    //Edit Test
     /// <summary>
     /// 接收消息类型
     /// </summary>
