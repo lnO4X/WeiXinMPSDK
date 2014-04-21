@@ -5,6 +5,8 @@ using System.Text;
 
 namespace Senparc.Weixin.MP
 {
+    //edit vs.net 2013 git local
+
     /// <summary>
     /// 接收消息类型
     /// </summary>
